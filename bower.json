@@ -2,7 +2,6 @@
   "name": "smalot-bootstrap-datetimepicker",
   "main": ["js/bootstrap-datetimepicker.min.js", "css/bootstrap-datetimepicker.min.css"],
   "ignore": [
-    "build",
     "sample in bootstrap v2",
     "sample in bootstrap v3",
     "screenshot",
